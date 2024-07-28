@@ -52,10 +52,11 @@ hr {
     margin: clamp(1px, 0.5vw, 2px);
 }
 
-.share-container a img{
+.share-container a i{
     width: clamp(20px, 5vw, 30px);
     height: auto;
     margin-left: 5px;
+    color: #cdc1b5;
 }
 
 #board {
